@@ -1,6 +1,6 @@
 const movies = [
     {
-        title:"Interstaller",
+        title:"fast and furious X",
         genre:"Sci-fi", 
         rating: 9.0,
         releaseYear: 2014
@@ -12,7 +12,7 @@ const movies = [
         releaseYear: 2022
     },
     {
-        title: "The Martian",
+        title: "Fauda",
         genre: "Sci-fi",
         rating: 9.1,
         releaseYear: 2015
